@@ -3,7 +3,7 @@ A python package for making CLIs.
 
 ## Installing
 1) Download the latest installer
-2) Put it in your python project's directory
+2) Put it in your python project's directory<br>
     yourProject/<br>
     ├─ main.py # Your Project's File<br>
     ├─ install_pycli.py # PyCLI installer
