@@ -1,0 +1,8 @@
+# ignore files used for testing
+test.py
+
+# Ignore Documentation
+pycli_documentation.md
+
+# Ignore temporary directories
+__pycache__/
