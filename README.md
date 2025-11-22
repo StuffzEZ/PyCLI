@@ -48,8 +48,6 @@ pycli.addCommand("helloWorld", myFunc) # Executes myFunc() and passes arguments 
 # Starts the main CLI loop. Put AFTER everything else (REQUIRED)
 pycli.startCLI()
 ```
-The output of this script is as follows:
-```bash
-================ HelloMyCLI ================
-thePerson123@HelloMyCLI:~$
-```
+The output of this script is as follows:<br>
+<img width="415" height="44" alt="image" src="https://github.com/user-attachments/assets/be50e14c-257e-4ed5-a172-c25cc297f8cb" />
+
