@@ -9,9 +9,9 @@ import os
 import requests
 
 files_to_download = {
-    ".gitignore": "https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore",
-    "pycli_documentation.md": "https://raw.githubusercontent.com/username/repository/main/README.md",
-    "pycli.py": "https://raw.githubusercontent.com/username/repository/main/script.py"
+    ".gitignore": "https://raw.githubusercontent.com/StuffzEZ/PyCLI/refs/heads/main/.gitignore",
+    "pycli_documentation.md": "https://raw.githubusercontent.com/StuffzEZ/PyCLI/refs/heads/main/README.md",
+    "pycli.py": "https://raw.githubusercontent.com/StuffzEZ/PyCLI/refs/heads/main/pycli.py"
 }
 
 dest_folder = os.path.dirname(os.path.abspath(__file__))
