@@ -13,7 +13,7 @@ A python package for making CLIs.
     ```
 4) Delete `install_pycli.py`
 5) Import PyCLI in your project
-    ```
+    ```python
     import pycli
     ```
 
@@ -47,4 +47,9 @@ pycli.addCommand("helloWorld", myFunc) # Executes myFunc() and passes arguments 
 
 # Starts the main CLI loop. Put AFTER everything else (REQUIRED)
 pycli.startCLI()
+```
+The output of this script is as follows:
+```bash
+================ HelloMyCLI ================
+thePerson123@HelloMyCLI:~$
 ```
